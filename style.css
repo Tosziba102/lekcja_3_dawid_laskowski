@@ -57,6 +57,11 @@ body {
     float: left;
 }
 
+.dupa {
+    margin: 0;
+    padding: 15px;
+}
+
 .tile3 {
     margin: 10px;
     width: 230px;

@@ -25,83 +25,89 @@ body {
 
 #logo {
     float: left;
-    font-family:'Josefin sans','sans-serif';
-    font size: 70px;
-    width:600px
+    font-family: 'Josefin sans', 'sans-serif';
+    font-size: 70px;
     margin-top: 10px;
     margin-bottom: 10px;
-    text-align:left;
+    text-align: left;
+    width: 600px; 
 }
 
 #zegar {
     float: left;
-    font-family:'Josefin sans','sans-serif';
-    font size:70px;
-    width: 600px
+    font-family: 'Josefin sans', 'sans-serif';
+    font-size: 70px;
     text-align:left;
+    width: 600px;
 }
+
 .tile1 {
     margin: 10px;
     width: 230px;
     height: 142px;
-    background-color:#3095d3 ;
-    float:left;
+    background-color: #3095d3;
+    float: left;
 }
+
 .tile2 {
     margin: 10px;
     width: 230px;
     height: 142px;
-    background-color:#666666 ;
-    float:left;
+    background-color: #666666;
+    float: left;
 }
+
 .tile3 {
     margin: 10px;
     width: 230px;
     height: 142px;
-    background-color: #93c748; 
-    float:left;
+    background-color: #93c748;
+    float: left;
 }
+
 .tile4 {
     margin: 10px;
     width: 480px;
     height: 142px;
-    background-color: #ee5a32; 
-    
+    background-color: #ee5a32;
+
 }
+
 .tile5 {
     margin: 10px;
     width: 480px;
     height: 304px;
     background-color: #666666;
 }
+
 .yt {
     margin: 10px;
     width: 105px;
     height: 142px;
-    background-color: #d94348; 
-    float:left;
+    background-color: #d94348;
+    float: left;
 }
+
 .fb {
     margin: 10px;
     width: 105px;
     height: 142px;
-    background-color: #4668b3; 
-    float:left;
+    background-color: #4668b3;
+    float: left;
 }
 
 .gplus {
     margin: 10px;
     width: 105px;
     height: 142px;
-    background-color: #d95333; 
-    float:left;
+    background-color: #d95333;
+    float: left;
 }
+
 .tw {
     margin: 10px;
     width: 105px;
     height: 142px;
-    background-color: #3095d3; 
-    float:left;
+    background-color: #3095d3;
+    float: left;
 }
-
-
